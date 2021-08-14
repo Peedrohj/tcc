@@ -1,0 +1,7 @@
+data/genetic_data
+
+.local/
+.cache/
+.ipython/
+
+notebooks/.ipynb_checkpoints
