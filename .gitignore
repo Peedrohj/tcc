@@ -2,6 +2,12 @@ data/genetic_data
 
 .local/
 .cache/
+.config/
 .ipython/
+.jupyter/
+
 
 notebooks/.ipynb_checkpoints
+
+**/__pycache__
+**/fasterq.tmp**
